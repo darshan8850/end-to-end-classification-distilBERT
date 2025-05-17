@@ -1,0 +1,10 @@
+pandas
+numpy
+tqdm
+nltk
+transformers
+tensorflow
+scikit-learn
+dill
+Flask
+-e .
